@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1741530644 source:e:\c++\maze\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"screen.h"
+	"graphic.h"
+	"move.h"
+	"press.h"
+
+1741406746 e:\c++\maze\screen.h
+
+1741408187 e:\c++\maze\graphic.h
+
+1741406439 e:\c++\maze\move.h
+
+1741405382 e:\c++\maze\player.h
+	<SDL.h>
+	<SDL_image.h>
+	"screen.h"
+
+1741407301 e:\c++\maze\press.h
+
